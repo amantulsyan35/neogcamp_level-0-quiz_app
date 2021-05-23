@@ -1,1 +1,1 @@
-Quiz app for people to check who knows me well
+Quiz app for people who love attack on titan
